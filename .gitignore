@@ -352,6 +352,7 @@ MigrationBackup/
 is-cache
 App_Data
 sa_password.secret
-Localization
+**/Localization/*
+!**/Localization/th-TH.po
 
 .placeholder
